@@ -1,8 +1,11 @@
 ### i18n gen
 
-
 生产通用的i18n错误码
 
+
+#### 安装方法
+
+`go get -v github.com/SoulSu/go-i18n-gen`
 
 #### 使用方法
 
