@@ -8,4 +8,6 @@
 
 ```bash
 //go:generate go-i18n-gen SystemError "10000" "系统错误" "system error"
+
+go generate
 ```
